@@ -1,0 +1,152 @@
+.navbar{ background-color: #008374;
+   
+
+}
+.navbar-brand{
+    color: white;
+    margin-left: 30px;
+    font-weight: 900;
+}  #nav{
+    color: white;
+    font-size: 20px;
+  margin-left: 80px;
+
+}em{
+    color: white; font-size: 20px;
+} .page1{
+    background-color: #008374;
+    padding: 45px;
+   
+} #page-btn{
+    color: white;
+    background-color: transparent;
+    padding-left:30px;
+    padding-right: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
+    border-radius: 20%;
+    border: 2px solid #098d7e;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+
+       margin-left: 10px;
+} 
+
+#heading1{
+    font-size: 30px;
+    font-weight: 600;
+}
+.para1{
+    color: aqua;
+}
+#r12{
+    padding: 50px;
+    margin-top: 20px;
+    padding-right: 20px;
+    margin-left: 20px;
+    transition: 2s;
+    
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px,
+ rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px; 
+
+text-align: center;
+}
+.container-1{ margin-top: 50px;
+    position: relative;
+    column-gap: 20px;
+
+
+}
+
+#videobtn{
+    color: white;
+    text-decoration: none;
+    margin-left: 30px;
+}#logo:hover{
+    color: black;
+}#nav:hover{
+    color: black;
+  
+}#videobtn:hover{
+    color: black;
+}
+#page-btn:hover{
+    color: white;
+    background-color: black;
+} 
+strong{
+    font-size: 30px;
+}
+
+  
+ ul{
+    margin-left: 30px; 
+}
+.page3{
+    background-color: #098d7e73;
+}
+
+footer{
+    background-color: #098d7e;
+    
+    padding: 50px;
+    margin-top: 30px;
+} #footer-hd{
+    color: white;
+    font-size: 30px;
+    margin-left: 10px;
+}#footer-para{
+    margin-left: 10px;
+    font-size: 18px;
+    color:#09443d;
+} ul li a{
+    text-decoration: none;
+}   #Link:hover{
+    color: white;
+}#footer-link:hover{
+    color: white;
+    transition: 2s;
+}
+
+
+
+#r12:hover{
+    cursor:help;
+    box-shadow: rgba(0, 0, 0, 0.17) 0px -23px 25px 0px inset, rgba(0, 0, 0, 0.15) 0px -36px 30px 0px inset, rgba(0, 0, 0, 0.1) 0px -79px 40px 0px inset, rgba(0, 0, 0, 0.06) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px;
+
+
+
+      
+}  .text-dark:hover{
+    cursor: help;
+}
+
+
+     
+     .card {
+       transition: transform 0.5s;
+     }
+
+.card:hover {
+    transform: scale(1.1);
+    color: #008374;
+    cursor: pointer;
+  }
+  
+@media(max-width:780px) {
+    
+    img{
+        width: 80%;
+        
+        max-width: 1200px;
+        display: grid;
+    }
+} @media(max-width:580px) {
+    
+    img{
+        width: 80%;
+        
+        max-width: 980px;
+        display: grid;
+    }
+} 
